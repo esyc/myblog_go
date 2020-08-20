@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43dc58c3-ff6e-4741-b7be-d5922427a837" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="F:\Go" />
+  <component name="ProjectId" id="1fabAlZMFZhrupngVQI5mdU0cBh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build crcblog" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="crcblog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="crcblog" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build crcblog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="87" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596461139054">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="87" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1596461139054" />
+    <state width="1011" height="143" key="GridCell.Tab.0.bottom" timestamp="1597929563969">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1011" height="143" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1597929563969" />
+    <state width="1011" height="143" key="GridCell.Tab.0.center" timestamp="1597929563969">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1011" height="143" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1597929563969" />
+    <state width="1011" height="143" key="GridCell.Tab.0.left" timestamp="1597929563968">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1011" height="143" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1597929563968" />
+    <state width="1011" height="143" key="GridCell.Tab.0.right" timestamp="1597929563969">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1011" height="143" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1597929563969" />
+    <state x="540" y="80" key="SettingsEditor" timestamp="1596536964608">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="540" y="80" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1596536964608" />
+    <state x="159" y="280" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1596552352957">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="159" y="280" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.0.1536.864@0.0.1536.864" timestamp="1596552352957" />
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1597846196518">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="46" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1597846196518" />
+  </component>
+</project>

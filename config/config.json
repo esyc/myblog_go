@@ -1,0 +1,18 @@
+{
+  "blog_name": "crcblog",
+  "blog_mode": "debug",
+  "blog_host": "localhost",
+  "blog_port": "8889",
+
+  "database": {
+    "driver":"mysql",
+    "user": "root",
+    "password": "123456",
+    "host": "localhost",
+    "port": "3306",
+    "database_name": "blog",
+    "charset": "utf8",
+    "show": true
+  },
+  "jwt": "767lksda"
+}
